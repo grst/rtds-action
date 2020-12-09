@@ -1,4 +1,4 @@
-# Hi from the main branch 
+# Hi from the PR
 
 [![Docs](https://github.com/dfm/rtds-action/workflows/Docs/badge.svg)](https://github.com/dfm/rtds-action/actions?query=workflow%3ADocs)
 [![Documentation Status](https://readthedocs.org/projects/rtds-action/badge/?version=latest)](https://rtds-action.readthedocs.io/en/latest/?badge=latest)
